@@ -19,22 +19,22 @@ const about = () => {
         <div className="about__cards">
           <article className='about__card'>
           <FaAward className='about__icon'/>
-          <h5>Experience</h5>
-          <small>3+ Years</small>
+          <h5>Swimming</h5>
+          <small>8+ Years</small>
           </article>
           <article className='about__card'>
           <FaAward className='about__icon'/>
-          <h5>Experience</h5>
-          <small>3+ Years</small>
+          <h5>Problem Solving</h5>
+          <small>4+ Years</small>
           </article>
           <article className='about__card'>
           <FaAward className='about__icon'/>
-          <h5>Experience</h5>
+          <h5>Helping *</h5>
           <small>3+ Years</small>
           </article>
         </div>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, necessitatibus. Enim, animi amet, quam ipsam cum libero dolorem sapiente nemo, quis possimus illum quisquam est velit quod repudiandae veniam reiciendis!
+        Hello my name is Juan Andres Montero, I've been swimming as a hobby and participated for competitions a few times in my life, Im currently studying in ITESO, an I've always been passionate about giving my 110% on each task given to me.
         </p>
         <a href="#contact" className='btn btn-primary'>Let's talk</a>
       </div>

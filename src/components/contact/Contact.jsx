@@ -30,19 +30,13 @@ const Contact = () => {
           <article className='contact__option'>
             <MdOutlineEmail className='contact_option-icon'/>
             <h4>Email</h4>
-            <h5>test@gmail.com</h5>
+            <h5>souless496@gmail.com</h5>
             <a href='mailto:test@gmail.com'>Send an email</a>
-          </article>
-          <article className='contact__option'>
-            <RiMessengerLine className='contact_option-icon'/>
-            <h4>Messenger</h4>
-            <h5>souless</h5>
-            <a href='https:/m.me/souless' target="_blank">Send a message</a>
           </article>
           <article className='contact__option'>
             <BsWhatsapp className='contact_option-icon'/>
             <h4>Whatsapp</h4>
-            <h5>Numero</h5>
+            <h5>Number</h5>
             <a href='https://api.whatsapp.com/send?phone=+523335840373' target="_blank">Send a whatsapp</a>
           </article>
 
